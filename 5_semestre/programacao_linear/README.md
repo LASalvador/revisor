@@ -1,6 +1,44 @@
 # Programação linear
+A `programação linear` estuda a otimização de problemas de ordem linear, isto é, problemas onde as variáveis possuem expoentes do primeiro grau, elevados ao número 1.
 
-Este repositório guarda exercícios resolvidos de programação linear utilizando Python.
+Este repositório guarda exercícios` resolvidos de programação linear utilizando Python.
+
+## Revisão 
+### Fração
+#### Adição de frações
+##### Bases iguais
+Soma-se apenas os númeradores
+> 6/4 + 1/4 = 7/4
+
+##### Bases diferentes
+Utiliza-se Mínimo Múltiplo Comum(M.M.C) entre os denominadores(números debaixo da fração)
+
+> 2/8 + 1/3 => (6 + 8)/ 24 = 14/24
+
+Para mais detalhes sobre a adição de frações com bases diferentes [Veja este vídeo](https://www.youtube.com/watch?v=EkY72kSuIsA)
+
+##### Subtração de frações
+
+##### Bases iguais
+Subtrai-se os númeradores
+> 6/4 - 1/4 = 5/4
+
+##### Bases diferentes
+Utiliza-se Mínimo Múltiplo Comum(M.M.C) entre os denominadores(números debaixo da fração)
+
+> 3/2 - 1/3 => (9 - 2)/6 = 7/6
+
+Para mais detalhes sobre a subtação de frações com bases diferentes [Veja este vídeo](https://www.youtube.com/watch?v=unvyvY7AK9k)
+
+#### Multiplicação de frações
+Multiplica-se numeradores com numeradores e denominadores com denominadores
+
+> 1/2 * 5/8 = 5/16
+
+#### Divisão de frações 
+Inverte-se a segunda fração e realiza a multiplicação.
+
+> (2/3) / (3/4) => 2/3 * 4/3 = 8/9 
 
 ## Modelagem
 
